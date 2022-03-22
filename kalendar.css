@@ -1,7 +1,7 @@
 body,
 html {
     margin:0; /*vyhodi defaultni odsazeni, co delaji prohlizece*/
-                /* tzv. css reset/resety */
+                /* tzv. css reset/resety  */
     background-color: white;
     font-family:Arial, Helvetica, sans-serif;
 }
